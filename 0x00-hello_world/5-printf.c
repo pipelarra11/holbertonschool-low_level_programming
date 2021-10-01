@@ -12,6 +12,6 @@
 int main(void)
 {
 /* your code goes there */
-printf("with proper grammar, but the outcome is a piece of art, \n ");
+printf("with proper grammar, but the outcome is a piece of art,");
 return (0);
 }
