@@ -25,5 +25,5 @@ else
 {
 printf("is : %d\n zero");
 }
-∑∫return (0);
+return (0);
 }
