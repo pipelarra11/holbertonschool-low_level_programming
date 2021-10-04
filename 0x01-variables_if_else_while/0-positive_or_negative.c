@@ -18,11 +18,11 @@ n = rand() - RAND_MAX / 2;
 /* your code goes there */
 if (n > 0)
 {
-printf("%d", n && "is positive");
+printf("%d/n", n);
 }
 if (n < 0)
 {
-printf("%d", n && "is negative");
+printf("%d/n", n);
 }
 else
 {
